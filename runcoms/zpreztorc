@@ -35,6 +35,12 @@ zstyle ':prezto:load' pmodule \
   'spectrum' \
   'utility' \
   'completion' \
+  'docker' \
+  'git' \
+  'homebrew' \
+  'osx' \
+  'syntax-highlighting' \
+  'history-substring-search' \
   'prompt'
 
 #
